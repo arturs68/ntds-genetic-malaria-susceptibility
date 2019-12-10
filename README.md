@@ -28,5 +28,5 @@ mice genetics
   - Using same methods
 
 - 7. Building graph with mice as nodes, expression data as distance metric and phenotype value as label
- - Identify communities
- - k-NN for label prediction
+  - Identify communities
+  - k-NN for label prediction
