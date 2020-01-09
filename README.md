@@ -10,7 +10,7 @@ To reproduce our results:
    ```
 3. Execute the jupyter notebooks in the following order:
     1. `baseline_phenotype_predictor.ipynb`
-    2. `coexpression_graph_exploration.ipynb`
+    2. `coexpression_graph_construction.ipynb`
     3. `coexpression_graph_exploration.ipynb`
     3. `SNP_expression_imputation.ipynb`
 
