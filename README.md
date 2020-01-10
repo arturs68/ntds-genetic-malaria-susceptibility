@@ -30,5 +30,3 @@ To reproduce our results:
     - Smoothing for filling missing values for SNP expression
 6. Prediction of phenotype values using additional expression data from 5.
     - Using the best method, comparing with baseline.
-7. Building graph with mice as nodes, expression data as distance metric and phenotype value as label
-    - Identifying communities
