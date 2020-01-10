@@ -1,4 +1,4 @@
-# Genetically determined susceptibility to disease
+# Genetically determined susceptibility to malaria
 Report describing the work is in `report.pdf` file.
 
 To reproduce our results:
