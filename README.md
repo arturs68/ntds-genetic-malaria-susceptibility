@@ -28,5 +28,5 @@ To reproduce our results:
     - (Genes, Tissue) as node and we use the expression values of each mouse to compute the distance metric. 
 5. Imputation of SNP expression on co-expression graph using Tikhonov filter
     - Smoothing for filling missing values for SNP expression
-6. Prediction of phenotype values using additional expression data from 5.
+6. Prediction of phenotype values using additional expression data from 4.
     - Using the best method, comparing with baseline.
